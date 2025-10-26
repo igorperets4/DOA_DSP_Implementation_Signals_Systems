@@ -34,8 +34,6 @@ ZOH Reconstruction:
 
 
 
-Igor Perets
-3rd year EE student @ Bar - Ilan University.
-Linkedin: www.linkedin.com/in/igorperets
+Igor Perets | 3rd year EE student @ Bar - Ilan University | Linkedin: www.linkedin.com/in/igorperets
 
 
