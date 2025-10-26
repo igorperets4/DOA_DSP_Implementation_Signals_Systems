@@ -2,7 +2,6 @@
 Signals and Systems
 Author: Igor Perets | ID: 323454405
 
-
 Stages in this file:
 1) infrastructure – exponent matrix , FT/IFT,FS , Discrete convolution etc.
 2) signals      – functions for each input
@@ -22,7 +21,7 @@ import matplotlib.pyplot as plt
 # ============================================================================
 # (1) Fourier – exponents, FT/IFT
 # ============================================================================
-
+#check for commit
 def prepare_exponents(t: np.ndarray, omega: np.ndarray):
     """
     Builds the exponential matrices E_minus (FT) and E_plus (IFT).
