@@ -1,6 +1,6 @@
 """
 Signals and Systems
-Author: Igor Perets | ID: 323454405
+Author: Igor Perets 
 
 Stages in this file:
 1) infrastructure – exponent matrix , FT/IFT,FS , Discrete convolution etc.
